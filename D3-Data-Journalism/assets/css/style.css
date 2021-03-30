@@ -5,13 +5,13 @@
 
 /* Sticky Footer rules (https://getbootstrap.com/examples/sticky-footer/) */
 html {
-  position: relative;
+  position;
   min-height: 100%;
 }
 
 body {
   /* Padding bottom by footer height */
-  padding-bottom: 80px;
+  
 }
 
 #footer {
@@ -29,3 +29,4 @@ body {
   margin: 0;
   font-size: 16px;
 }
+
