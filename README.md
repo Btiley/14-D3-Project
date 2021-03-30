@@ -1,3 +1,3 @@
 # D3-Challenge
 
-![](images/D3_Graph.png)
+![](D3-Data-Journalism/images/D3_Graph.png)
