@@ -1,4 +1,4 @@
-# D3-Challenge=
+# D3-Challenge
 This assignment involved creating a graph using d3, and appaending an SVG to html.
 
 The scatter plot depicts percentage in Povertry against percentage of people lacking health care.
